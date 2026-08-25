@@ -23,10 +23,6 @@ and stay out of the way. Most of it is open source under MIT.
   <img alt="Recently active repositories" src="https://raw.githubusercontent.com/trsdn/.github/stats/assets/profile-stats/repos-table-card.svg">
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trsdn/.github/stats/assets/profile-stats/now-building-card-dark.svg">
-  <img alt="Repositories with recent commits" src="https://raw.githubusercontent.com/trsdn/.github/stats/assets/profile-stats/now-building-card.svg">
-</picture>
 
 ## How these cards work
 
