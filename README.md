@@ -19,8 +19,8 @@ and stay out of the way. Most of it is open source under MIT.
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trsdn/.github/stats/assets/profile-stats/repos-table-card-dark.svg">
-  <img alt="Recently active repositories" src="https://raw.githubusercontent.com/trsdn/.github/stats/assets/profile-stats/repos-table-card.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trsdn/.github/stats/assets/profile-stats/momentum-card-dark.svg">
+  <img alt="Momentum: public contributions over consecutive 30-day periods, weekly trend, and active days" src="https://raw.githubusercontent.com/trsdn/.github/stats/assets/profile-stats/momentum-card.svg">
 </picture>
 
 
